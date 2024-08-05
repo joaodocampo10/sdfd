@@ -1,0 +1,22 @@
+{
+  "name": "payment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.25.3",
+    "dotenv": "^16.4.5",
+    "nuxt": "^2.15.8",
+    "papaparse": "^5.4.1",
+    "qrcode": "^1.5.3",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  }
+}
